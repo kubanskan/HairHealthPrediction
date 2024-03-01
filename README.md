@@ -6,8 +6,9 @@ I concentrated on evaluating the effectiveness of models such as:
 ***Logistic Regression, Support Vector Machines, K-Nearest Neighbors, Decision Trees,        
   Random Forests, Gradient Boosting, Naive Bayes and Neural Networks***.
 
-
 ![image](https://github.com/kubanskan/HairHealthPrediction/assets/129724865/c3d26abd-d709-4bcd-82b5-2d23ceda617c)
+
+
 ## Overview of Data
 The dataset for this project is sourced from Kaggle https://www.kaggle.com/datasets/amitvkulkarni/hair-health/data
 
@@ -26,3 +27,6 @@ The dataset for this project is sourced from Kaggle https://www.kaggle.com/datas
 - **Weight Loss:** Indicates whether the individual has experienced significant weight loss (Yes/No).
 - **Baldness (Target):** Binary variable indicating the presence (1) or absence (0) of baldnessof baldness in the individual.
 
+## PDF Version
+
+If you are interested in a PDF version of this document, please [click here to download](https://drive.google.com/file/d/1WqwsIh3woo50u9YGQL1qpQMKpFbLkAHJ/view?usp=sharing).
